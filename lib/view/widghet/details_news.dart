@@ -127,3 +127,6 @@ class _DetailsNewsState extends State<DetailsNews> {
     );
   }
 }
+
+
+////

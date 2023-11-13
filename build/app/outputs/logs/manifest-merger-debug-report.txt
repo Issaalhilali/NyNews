@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:4:5-34:19
+MERGED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-35:19
+MERGED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-35:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\issaa\.gradle\caches\transforms-3\c0881da38afec361ee6b4f9258a0c866\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\issaa\.gradle\caches\transforms-3\c0881da38afec361ee6b4f9258a0c866\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-37:12
+MERGED from [:sqflite] C:\Users\issaa\Desktop\nynews\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\issaa\Desktop\nynews\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\3123e684bc3a0c34deed227629ba3685\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\issaa\.gradle\caches\transforms-3\23357828e4b8361250853913b2f1777e\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\811b4be93fa27c92d804f712e41538fa\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\45f3cf5d2effb96fc3b09e1f3181578c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\b36632ee03a2a55b069e3e769babdebd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\432c94f6912723cd5629405158e80726\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\88810f97e6ae5fddc941c1c20bbf7383\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\0d95296369ef436fe3d36d78d74f58a8\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\issaa\.gradle\caches\transforms-3\c0881da38afec361ee6b4f9258a0c866\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\issaa\.gradle\caches\transforms-3\b03d9c90ef1c104d2dd79308b77ed227\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\2a6ba40a737545ebcadddbfad0c21a98\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\issaa\.gradle\caches\transforms-3\4325be42b450f93cfbe9089e2eda4122\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\cf176b0f048ac975e0d0dfe00686c477\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\issaa\.gradle\caches\transforms-3\385761225cb57150ba8d0521bcb49093\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\issaa\.gradle\caches\transforms-3\57bdba7a5a041ce34b5d1aae580aae14\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\issaa\.gradle\caches\transforms-3\6acb7599c040fa1053a1ac8798512c3b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\issaa\.gradle\caches\transforms-3\6417acf9ed9a389e4f9aa77d11810c10\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:2:5-67
+MERGED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:2:5-67
+MERGED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml:2:22-64
+uses-sdk
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+MERGED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\issaa\Desktop\nynews\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\issaa\Desktop\nynews\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\issaa\Desktop\nynews\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\issaa\Desktop\nynews\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\3123e684bc3a0c34deed227629ba3685\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\3123e684bc3a0c34deed227629ba3685\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\issaa\.gradle\caches\transforms-3\23357828e4b8361250853913b2f1777e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\issaa\.gradle\caches\transforms-3\23357828e4b8361250853913b2f1777e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\811b4be93fa27c92d804f712e41538fa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\811b4be93fa27c92d804f712e41538fa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\45f3cf5d2effb96fc3b09e1f3181578c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\45f3cf5d2effb96fc3b09e1f3181578c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\b36632ee03a2a55b069e3e769babdebd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\b36632ee03a2a55b069e3e769babdebd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\432c94f6912723cd5629405158e80726\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\432c94f6912723cd5629405158e80726\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\88810f97e6ae5fddc941c1c20bbf7383\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\88810f97e6ae5fddc941c1c20bbf7383\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\0d95296369ef436fe3d36d78d74f58a8\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\0d95296369ef436fe3d36d78d74f58a8\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\issaa\.gradle\caches\transforms-3\c0881da38afec361ee6b4f9258a0c866\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\issaa\.gradle\caches\transforms-3\c0881da38afec361ee6b4f9258a0c866\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\issaa\.gradle\caches\transforms-3\b03d9c90ef1c104d2dd79308b77ed227\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\issaa\.gradle\caches\transforms-3\b03d9c90ef1c104d2dd79308b77ed227\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\2a6ba40a737545ebcadddbfad0c21a98\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\2a6ba40a737545ebcadddbfad0c21a98\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\issaa\.gradle\caches\transforms-3\4325be42b450f93cfbe9089e2eda4122\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\issaa\.gradle\caches\transforms-3\4325be42b450f93cfbe9089e2eda4122\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\cf176b0f048ac975e0d0dfe00686c477\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\issaa\.gradle\caches\transforms-3\cf176b0f048ac975e0d0dfe00686c477\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\issaa\.gradle\caches\transforms-3\385761225cb57150ba8d0521bcb49093\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\issaa\.gradle\caches\transforms-3\385761225cb57150ba8d0521bcb49093\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\issaa\.gradle\caches\transforms-3\57bdba7a5a041ce34b5d1aae580aae14\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\issaa\.gradle\caches\transforms-3\57bdba7a5a041ce34b5d1aae580aae14\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\issaa\.gradle\caches\transforms-3\6acb7599c040fa1053a1ac8798512c3b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\issaa\.gradle\caches\transforms-3\6acb7599c040fa1053a1ac8798512c3b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\issaa\.gradle\caches\transforms-3\6417acf9ed9a389e4f9aa77d11810c10\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\issaa\.gradle\caches\transforms-3\6417acf9ed9a389e4f9aa77d11810c10\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\issaa\Desktop\nynews\android\app\src\debug\AndroidManifest.xml
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-74
+	android:exported
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:68
+	android:resource
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-65
+	android:name
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-67
+receiver#dev.fluttercommunity.plus.share.SharePlusPendingIntent
+ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-82
+intent-filter#action:name:EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-33:29
+action#EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-65
+	android:name
+		ADDED from [:share_plus] C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:25-62
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.nynews.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.nynews.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\AndroidManifest.xml:26:22-94

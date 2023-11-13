@@ -1,0 +1,17 @@
+com.example.nynews.app-core-1.10.1-0 C:\Users\issaa\.gradle\caches\transforms-3\029ab36293c069b73b01caf3ea1fc740\transformed\core-1.10.1\res
+com.example.nynews.app-jetified-window-java-1.0.0-beta04-1 C:\Users\issaa\.gradle\caches\transforms-3\3123e684bc3a0c34deed227629ba3685\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.nynews.app-jetified-annotation-experimental-1.3.0-2 C:\Users\issaa\.gradle\caches\transforms-3\6417acf9ed9a389e4f9aa77d11810c10\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.nynews.app-jetified-window-1.0.0-beta04-3 C:\Users\issaa\.gradle\caches\transforms-3\7052513b5c1e7460775b2b602eec9744\transformed\jetified-window-1.0.0-beta04\res
+com.example.nynews.app-jetified-core-ktx-1.10.1-4 C:\Users\issaa\.gradle\caches\transforms-3\88810f97e6ae5fddc941c1c20bbf7383\transformed\jetified-core-ktx-1.10.1\res
+com.example.nynews.app-lifecycle-runtime-2.3.1-5 C:\Users\issaa\.gradle\caches\transforms-3\b03d9c90ef1c104d2dd79308b77ed227\transformed\lifecycle-runtime-2.3.1\res
+com.example.nynews.app-debug-6 C:\Users\issaa\Desktop\nynews\android\app\src\debug\res
+com.example.nynews.app-main-7 C:\Users\issaa\Desktop\nynews\android\app\src\main\res
+com.example.nynews.app-pngs-8 C:\Users\issaa\Desktop\nynews\build\app\generated\res\pngs\debug
+com.example.nynews.app-resValues-9 C:\Users\issaa\Desktop\nynews\build\app\generated\res\resValues\debug
+com.example.nynews.app-rs-10 C:\Users\issaa\Desktop\nynews\build\app\generated\res\rs\debug
+com.example.nynews.app-mergeDebugResources-11 C:\Users\issaa\Desktop\nynews\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.nynews.app-mergeDebugResources-12 C:\Users\issaa\Desktop\nynews\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.nynews.app-merged_res-13 C:\Users\issaa\Desktop\nynews\build\app\intermediates\merged_res\debug
+com.example.nynews.app-packaged_res-14 C:\Users\issaa\Desktop\nynews\build\path_provider_android\intermediates\packaged_res\debug
+com.example.nynews.app-packaged_res-15 C:\Users\issaa\Desktop\nynews\build\share_plus\intermediates\packaged_res\debug
+com.example.nynews.app-packaged_res-16 C:\Users\issaa\Desktop\nynews\build\sqflite\intermediates\packaged_res\debug
